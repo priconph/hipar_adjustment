@@ -1,0 +1,87 @@
+#parentDiv
+{
+	height: 100%;
+	width: 100%;
+	padding: 10%;
+}
+
+#logForm
+{
+	/*border: 1px solid black;*/
+}
+
+#tbox_plateno, #tbox_logpass
+{
+	width: 100px;
+	height: 40px;
+	font-size: 12pt;
+}
+
+#checkAccount
+{
+	height: 45px;
+	width: 250px;
+}
+
+#lmodal
+{
+
+}
+#search
+{
+	border: 1px solid blue;
+	width: 60%;
+	margin: 0px;
+	padding: 5%;
+	background: #093054;
+
+	border: 2px solid #060561;
+    border-radius: 5px;
+}
+
+#search h2, #search h5, #search h5 a { text-align: center; color: #fefefe; font-weight: normal; }
+#search h2 { margin-bottom: 50px }
+#search h5 { margin-top: 70px }
+
+
+
+.tbl_row
+{
+	padding: 5px;
+}
+
+#tbox_cno, #drp_gender, #drp_bday, #drp_civilstatus, #drp_plate, #tbox_eadd, #tbox_lname, #tbox_fname, #tbox_mname, #tbox_sname, #tbox_street, #tbox_city, #tbox_province, #tbox_postal, #tbox_pw2, #tbox_pw1, #tbox_plateno, #drp_fuel, #getInfoLogin, #tbox_clname,  #tbox_cfname,  #tbox_cmname,  #tbox_csname, #tbox_cstreet, #tbox_ccity, #tbox_cprovince, #tbox_cpostal, #drp_cgender, #drp_cbday, #drp_ccivilstatus, #tbox_ceadd, #tbox_ccno
+{
+	width: 250px;
+}
+
+ #spacing
+ {
+ 	width: 145px;
+ }
+
+ #drp_civilstatus
+ {
+ 	width: 145px;
+ }
+
+ #tbox_desc
+ {
+ 	width: 500px;
+ }
+
+ #tbox_route, #tbox_croute
+ {
+ 	width: 750px;
+ }
+
+ .num
+ {
+ 	text-align: right;
+ }
+
+ #myTable
+ {
+ 	text-align: center;
+ 	width: 500px;
+ }

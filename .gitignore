@@ -1,0 +1,81 @@
+# ---- Large / binary documents ----
+*.xls
+*.xlsx
+*.xlsm
+*.xlsb
+*.csv
+*.doc
+*.docx
+*.ppt
+*.pptx
+*.pdf
+*.odt
+*.ods
+
+# ---- Archives ----
+*.zip
+*.rar
+*.7z
+*.tar
+*.gz
+*.tgz
+*.bz2
+
+# ---- Media ----
+*.mp3
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.wav
+*.psd
+*.ai
+*.swf
+
+# ---- Database / backups / dumps ----
+*.sql
+*.sqlite
+*.sqlite3
+*.db
+*.mdb
+*.accdb
+*.bak
+*.BAK
+*.dump
+*.old
+*.tmp
+*.temp
+*.swp
+
+# ---- Logs / cache ----
+*.log
+logs/
+cache/
+tmp/
+temp/
+
+# ---- Uploads / generated files ----
+uploads/
+upload/
+exports/
+export/
+reports/
+output/
+
+# ---- Dependencies ----
+node_modules/
+vendor/
+
+# ---- Environment / secrets ----
+.env
+.env.*
+*.pem
+*.key
+
+# ---- OS / IDE ----
+Thumbs.db
+desktop.ini
+.DS_Store
+.idea/
+.vscode/
+*.sublime-*
